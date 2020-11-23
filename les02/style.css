@@ -1,0 +1,17 @@
+body {
+    background-color: lightblue;
+  }
+  
+  h1 {
+    color: blue;
+    background-color: white;
+  }
+
+img {
+    max-width: 50%;
+}
+
+p {
+    font-style: italic;
+}
+
