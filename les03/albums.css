@@ -7,13 +7,23 @@ body {
 }
 .container {
     width: 720px;
-    margin:0 auto;
-    height: 720px;
-    background-image: url('fotoalbums.jpg');
+    margin: 0 auto;
+    min-height: 720px;
+    background-image: url(fotoalbums.jpg);
     color: white;
+    padding-top: 0px;
 }
 .artist {
+    background-color: rgba(255, 0, 0, 0.7);
     width: 200px;
+    cursor: pointer;
+}
+#cudi {
+    margin-left: 0px;
+    padding-top: 285px;
+    padding-left: 160px;
+    padding-bottom: 17px;
+
 }
 h3, p {
     margin: 0;
@@ -21,19 +31,5 @@ h3, p {
 }
 .naam {
     border-left: solid 9px red;
-    padding-left: 9px ;
+    padding-left: 9px;
 }
-.artist{
-    background-color: rgba(255, 0, 0, 0.692);
-    cursor: pointer;
-}
-#cudi {
-    margin-left: px;
-
-}
-#cudi .naam{
-    margin-left: 275px;
-    padding-top: 275px
-    
-}
-
