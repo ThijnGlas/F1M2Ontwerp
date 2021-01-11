@@ -18,6 +18,7 @@ body {
     width: 200px;
     cursor: pointer;
 }
+
 #cudi {
     margin-left: 0px;
     padding-top: 285px;
@@ -31,5 +32,7 @@ h3, p {
 }
 .naam {
     border-left: solid 9px red;
-    padding-left: 9px;
+}
+.naam {
+    margin-left: 110px;
 }
